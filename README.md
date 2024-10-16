@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋 My name is George Poutachidis
+===================================
 
-<!--
-**george-zeppelin/george-zeppelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+video game developer and graphics programmer
+--------------------------------------------
 
-Here are some ideas to get you started:
+I have been working on solo indie projects for several years, and i am currently working on my university thesis, studying electronics and software engineering. i also do 3d modelling and animation.
+I am familiar with Unity3D and C#. I also have a basic knowledge of the Unreal engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+programming languages:
+C#, C++
+
+other programming languages:
+C, javascript, typescript, python, java
+
+3D modelling tools:
+Maya, Blender, Zbrush, Topogun, Substance Painter
+
+Other design tools i am familiar with:
+Photoshop, Krita, Inkscape, Fiber Shop
+
+Languages: i am fluent in English, Russian and Greek. I am currently learning German ( beginner level )
+
+*   🌍  I'm based in Thessaloniki
+*   ✉️  You can contact me at [georgewinchester1999@gmail.com](mailto:georgewinchester1999@gmail.com)
+*   ⚡  i play guitar and i like anime. I listen to heavy metal and most rock subgenres ( a list of favorite bands would be too long to include )
